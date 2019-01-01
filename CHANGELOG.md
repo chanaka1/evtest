@@ -1,3 +1,6 @@
+## 1.1.0 (January 01, 2019)
+
+
 ## 1.0.0 (January 01, 2019)
   - Merge pull request #5 from chanaka1/releases/0.1.0-init-release
   - createcitation.txt
